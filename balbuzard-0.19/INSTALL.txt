@@ -1,0 +1,19 @@
+To install this package:
+
+see https://bitbucket.org/decalage/balbuzard/wiki/Installation or the file 
+Installation.html in the balbuzard/doc subfolder.
+
+
+1) If you plan to use these scripts as command line tools:
+
+Just unzip the archive in any folder, and run the scripts from that folder.
+You may also add that folder to your PATH so that you can run them from anywhere.
+
+
+2) If you plan to import this package in your python applications:
+
+On Windows, double-click on install.bat.
+
+On all platforms, open a shell and run:
+python setup.py install
+
